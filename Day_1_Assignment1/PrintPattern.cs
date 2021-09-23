@@ -39,7 +39,6 @@ namespace Day_1_Assignment1
                     {
                         Console.Write(" ");
 
-
                     }
 
                 }
