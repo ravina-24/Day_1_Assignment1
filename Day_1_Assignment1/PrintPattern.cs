@@ -38,11 +38,14 @@ namespace Day_1_Assignment1
                     else
                     {
                         Console.Write(" ");
+
+
                     }
 
                 }
                 Console.WriteLine();
             }
+
             Console.ReadLine();
         }
     }
