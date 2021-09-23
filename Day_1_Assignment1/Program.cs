@@ -16,6 +16,10 @@ namespace Day_1_Assignment1
 
             SpringSeason s = new SpringSeason();
             s.CheckDayAndMonth();
+
+            Quadratic q = new Quadratic();
+            q.FindRoots();
+
         }   
     }
 }
