@@ -7,8 +7,8 @@ namespace Day_1_Assignment1
     {
         static void Main(string[] args)
         {
-            //PrintPattern p = new PrintPattern();
-            //p.PrintPatternKWD();
+            PrintPattern p = new PrintPattern();
+            p.PrintPatternKWD();
 
 
             LeapYearOrNot l = new LeapYearOrNot();
