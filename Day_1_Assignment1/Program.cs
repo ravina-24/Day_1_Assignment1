@@ -14,7 +14,8 @@ namespace Day_1_Assignment1
             LeapYearOrNot l = new LeapYearOrNot();
             l.CheckLeapYear();
 
-
+            SpringSeason s = new SpringSeason();
+            s.CheckDayAndMonth();
         }   
     }
 }
